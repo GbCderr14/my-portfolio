@@ -33,8 +33,8 @@ const Resume = () => {
           className="flex flex-col xl:flex-row gap-[60px]"
         >
           <TabsList className="flex flex-col w-full max-w-[380px] mx-auto xl:mx-0 gap-6">
-            {tabsHeader.map((tab) => (
-              <TabsTrigger value={tab.key}>
+            {tabsHeader.map((tab,index) => (
+              <TabsTrigger key={index} value={tab.key}>
                 {tab.value}
               </TabsTrigger>
             ))}

@@ -130,7 +130,7 @@ export const projects = [
       { img: "/assets/work/portfolio/4.png" },
       { img: "/assets/work/portfolio/5.png" },
     ],
-    live: "",
+    live: "https://gaurangbhutaniportfolio.netlify.app/",
 
     github: "https://github.com/GbCderr14/my-portfolio",
   },
