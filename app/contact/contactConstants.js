@@ -47,6 +47,10 @@ export const servicesOffered = [
     key: "fullstack",
     value: "Fullstack Development",
   },
+  {
+    key: "ai-ml",
+    value: "AI/ML Development",
+  },
 ];
 
 export const placeholders = {
