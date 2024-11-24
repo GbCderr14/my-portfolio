@@ -22,7 +22,7 @@ const Home = () => {
 
 
               <a
-                href="https://drive.google.com/file/d/1HSHVo2c619ll3xnBYFEbA2_OB53R1I26/view?usp=sharing"
+                href="https://bit.ly/gaurangbhutaniresume"
                 target="_blank"
                 rel="noopener noreferrer"
               >
